@@ -19,9 +19,18 @@ float Q_rsqrt( float number )
 	return y;
 }
 ```
+## Tech Stack
+### Languages
+![C++](https://img.shields.io/badge/C++-informational?style=flat\&logo=c%2B%2B\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-informational?style=flat\&logo=c-sharp\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-informational?style=flat\&logo=python\&logoColor=white)
 
+### Tools & Engines
+![Unity](https://img.shields.io/badge/Unity-informational?style=flat\&logo=unity\&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-informational?style=flat\&logo=godot-engine\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-informational?style=flat\&logo=linux\&logoColor=white)
 
-
+---
 ## About
 
 * Currently working on:
@@ -35,23 +44,5 @@ float Q_rsqrt( float number )
 * Currently learning:
 
   * Multiplayer architecture
-
 ---
-
-## Tech Stack
-
-### Languages
-
-![C++](https://img.shields.io/badge/C++-informational?style=flat\&logo=c%2B%2B\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-informational?style=flat\&logo=c-sharp\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-informational?style=flat\&logo=python\&logoColor=white)
-
-### Tools & Engines
-
-![Unity](https://img.shields.io/badge/Unity-informational?style=flat\&logo=unity\&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-informational?style=flat\&logo=godot-engine\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-informational?style=flat\&logo=linux\&logoColor=white)
-
----
-
 
