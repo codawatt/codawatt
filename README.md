@@ -1,4 +1,4 @@
-Software developer focused on systems, game development, and applied machine learning.
+Software developer focused on systems and game development.
 
 ---
 ```cpp
@@ -29,20 +29,4 @@ float Q_rsqrt( float number )
 ![Unity](https://img.shields.io/badge/Unity-informational?style=flat\&logo=unity\&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-informational?style=flat\&logo=godot-engine\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-informational?style=flat\&logo=linux\&logoColor=white)
-
----
-## About
-
-* Currently working on:
-
-  * Card game (Godot)
-  * FPS prototype (Godot)
-  * Puzzle platformer (Godot)
-  * Library management system
-  * Conversation classifier
-
-* Currently learning:
-
-  * Multiplayer architecture
----
 
